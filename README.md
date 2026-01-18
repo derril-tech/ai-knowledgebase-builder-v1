@@ -1,8 +1,6 @@
 # 🧠 CrewAI Knowledge Base Builder
 **Powered by CrewAI + OpenAI**
 
-🌐 **[View Live Application](https://ai-knowledgebase-builder.vercel.app)**
-
 > **Transform Confluence chaos into structured knowledge. Connect your space, let 5 AI agents analyze your docs, and get a clean information architecture with canonical articles—automatically.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -262,7 +260,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-[Live Demo](https://ai-knowledgebase-builder.vercel.app) 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
 </div>
